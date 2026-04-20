@@ -1,7 +1,9 @@
 # Rock_Pap_Scissor_game
 
 🔳 Rock Paper Scissors Game – Web Application
+
 📌 Project Overview
+
 The Rock Paper Scissors Game is a simple and interactive web application that allows users to play the classic game against the computer. The user selects either rock, paper, or scissors, and the computer randomly generates its choice. The result is displayed instantly along with updated scores. This project is built using HTML, CSS, and JavaScript, featuring a clean user interface with responsive design and smooth button interactions.
 
 🎯 Objective of the Project
@@ -15,6 +17,7 @@ Strengthen frontend development concepts
 
 
 🛠️ Technologies Used
+
 HTML5 – Structure of the web page
 CSS3 – Styling and layout design
 JavaScript (Vanilla JS) – Game logic and interactivity
@@ -66,11 +69,14 @@ Mobile devices
 Option 1: Open Directly
 Download the project files
 Open index.html in any web browser
+
 Option 2: Using VS Code
 Open the project folder in VS Code
 Install Live Server Extension
 Right-click index.html → Click Open with Live Server
+
 🔮 Future Enhancements
+
 Add sound effects for gameplay
 Add animations for winning/losing
 Include difficulty levels
