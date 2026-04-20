@@ -21,6 +21,7 @@ JavaScript (Vanilla JS) – Game logic and interactivity
 
 
 📂 Project Structure
+
 Rock-Paper-Scissors/ │
 ├── index.html → Main structure of the game
 ├── style.css → Styling (colors, layout, UI effects)
@@ -28,6 +29,7 @@ Rock-Paper-Scissors/ │
 
 
 🧠 How the Application Works
+
 Step 1: User Choice
 The user clicks one of the buttons (rock, paper, or scissors).
 Step 2: Computer Choice
@@ -44,6 +46,7 @@ User and computer scores are updated after each round.
 
 
 ✨ Features
+
 🔹 Interactive gameplay
 🔹 Instant result display
 🔹 Score tracking system
@@ -59,6 +62,7 @@ Mobile devices
 
 
 💻 How to Run This Project
+
 Option 1: Open Directly
 Download the project files
 Open index.html in any web browser
